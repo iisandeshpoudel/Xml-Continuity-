@@ -1,4 +1,4 @@
 @echo off
-echo ThinZin on the way to save Someone new !!
+echo Don't install through setup.exe.... just run this
 cmd /k "setup /configure configuration.xml"
 PAUSE
