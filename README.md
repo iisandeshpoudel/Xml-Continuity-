@@ -1,2 +1,2 @@
-Don't intsall through setup.exe just run the .bat file
+Don't intsall through setup.exe just run the .cmd file
 
